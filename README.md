@@ -1,1 +1,0 @@
-# sphinx_idl_test
