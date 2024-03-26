@@ -1,5 +1,8 @@
-sphinx
-sphinx_rtd_theme
-sphinxcontrib-bibtex
+sphinx >=5, <6
+sphinx_rtd_theme >=1, <2
+sphinxcontrib-bibtex >=2, <3
 nbsphinx
-sphinx_idl
+pandoc
+jupyter
+docutils == 0.16
+sphinx_idl == 0.1
