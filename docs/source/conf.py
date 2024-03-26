@@ -317,4 +317,5 @@ texinfo_documents = [
 
 autodoc_mock_imports = [
     'src',
+    'src/calendar',
 ]
