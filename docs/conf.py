@@ -315,7 +315,4 @@ texinfo_documents = [
 # -- Options for Texinfo output -------------------------------------------
 # http://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#confval-autodoc_mock_imports
 
-autodoc_mock_imports = [
-    'src',
-    'src/calendar',
-]
+autodoc_mock_imports = []
