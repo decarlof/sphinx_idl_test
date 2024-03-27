@@ -83,7 +83,7 @@ copyright = u'2024, ' + Affiliation
 # built documents.
 #
 # The short X.Y version.
-version = open(os.path.join('../..', 'VERSION')).read().strip()
+version = open(os.path.join('..', 'VERSION')).read().strip()
 # The full version, including alpha/beta/rc tags.
 release = version
 
