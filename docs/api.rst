@@ -3,6 +3,6 @@ API reference
 
 .. toctree:: 
 
-   api/ucomp.calendar
+   ucomp.calendar
 
 
